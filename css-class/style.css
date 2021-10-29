@@ -2,6 +2,8 @@ body{
     background-color: black;
     color: red;
 }
-.container{
+.container, .container-cheet{
+    padding: 10px;
+    margin: 10px;
     border: red 2px solid;
 }
