@@ -2,3 +2,6 @@ body{
     background-color: black;
     color: red;
 }
+.container{
+    border: red 2px solid;
+}
